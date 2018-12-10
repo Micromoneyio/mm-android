@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:994002621326:android:028f3d4c85a5baa3",
         "android_client_info": {
-          "package_name": "mm.com.money"
+          "package_name": "mm.com.mmafrica"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "994002621326-r2nhislotf62e9290et0ir4q3au74si9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "mm.com.money",
+            "package_name": "mm.com.mmafrica",
             "certificate_hash": "aeb09aed3a4f583650f0143f1b05d57cfc54064e"
           }
         },
